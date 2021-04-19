@@ -38,9 +38,10 @@ ul{
     padding-left: 0;
 }
 
+/* inizio proprietà della tabella */
 table{
-    table-layout: fixed;
     width: 100%;
+    border: none;
 }
 
 thead{
@@ -52,9 +53,14 @@ th{
     text-align: left;
 }
 
+.bigger{
+    width: 50%;
+}
+
 .light-blue{
     background-color: lightblue;
 }
+/* fine proprietà della tabella */
 
 .final-img{
     height: 200px;
