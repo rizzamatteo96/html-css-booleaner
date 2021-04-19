@@ -38,6 +38,11 @@ ul{
     padding-left: 0;
 }
 
+table{
+    table-layout: fixed;
+    width: 100%;
+}
+
 thead{
     background-color: cornflowerblue;
 }
@@ -47,11 +52,9 @@ th{
     text-align: left;
 }
 
-table{
-    table-layout: fixed;
-    width: 100%;
+.light-blue{
+    background-color: lightblue;
 }
-
 
 .final-img{
     height: 200px;
