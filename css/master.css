@@ -1,0 +1,85 @@
+/* header properties */
+
+.main-container{
+    width: 80%;
+    margin: auto;
+}
+
+.container{
+    height: 180px;
+    background-color: cornflowerblue;
+    background-image: url(../img/pattern.png);
+}
+
+#logo{
+    height: 100px;
+    padding-top: 80px;
+    margin-left: 10%;
+}
+
+/* main properties */
+h1{
+    font-size: 60px;
+    margin-bottom: 0;
+}
+
+.text-grey{
+    color: grey;
+}
+
+#text-blue{
+    color: rgb(0, 191, 255);
+}
+
+.text-small{
+    font-size: 13px;
+}
+
+.highlighted{
+    background-color: yellow;
+}
+
+ul{
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+/* inizio proprietà della tabella */
+table{
+    width: 100%;
+    border: none;
+}
+
+thead{
+    background-color: cornflowerblue;
+}
+
+th{
+    color: white;
+    text-align: left;
+}
+
+.bigger{
+    width: 50%;
+}
+
+.light-blue{
+    background-color: lightblue;
+}
+/* fine proprietà della tabella */
+
+.final-img{
+    height: 200px;
+    width: 250px;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#first-img{
+    background-image: url(../img/monitor.jpg);
+}
+
+#second-img{
+    background-image: url(../img/graph.jpg);
+}
